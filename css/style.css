@@ -1,0 +1,18 @@
+body{
+    margin:0;
+}
+img{
+    width: 100%;
+}
+a{
+    text-decoration: none;
+}
+table{
+    border: none;
+}
+.cont{
+    margin-top: 10px;
+}
+.cont-body{
+    margin-top: 10px;
+}
